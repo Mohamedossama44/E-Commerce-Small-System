@@ -1,4 +1,4 @@
-# 🛍️ Fawry E-Commerce System
+# 🛍️E-Commerce System
 
 A Java-based e-commerce system that simulates online shopping with cart management, checkout processing, and shipping services.
 
